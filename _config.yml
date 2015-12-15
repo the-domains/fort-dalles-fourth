@@ -1,7 +1,7 @@
 name: Fort Dalles Fourth
 favicon: null
-layout_spectrum: 0.11148184118792415
-typography_spectrum: 0.12319427588954568
+layout_spectrum: 0.31572
+typography_spectrum: 0.68774
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.9760585555341095
-  lightness: 0.2808918282389641
-  saturation: 0.8616313014645129
-  rhythmicContrast: 0.42479479731991887
+  lightness: 0.8125
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
